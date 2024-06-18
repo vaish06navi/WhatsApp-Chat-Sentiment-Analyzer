@@ -42,11 +42,10 @@ streamlit run app.py
 ## Screenshots
 
 ![app · Streamlit - Google Chrome 28-04-2022 20_35_52](https://user-images.githubusercontent.com/72250606/165783851-967737d9-6542-485a-ba75-9368d4905289.png)
-![app · Streamlit - Google Chrome 28-04-2022 20_30_40](https://user-images.githubusercontent.com/72250606/165783574-142f8e37-2fec-4f4e-aa3c-8ebb07acc401.png)
-![app · Streamlit - Google Chrome 28-04-2022 20_30_51](https://user-images.githubusercontent.com/72250606/165783590-93ac7ed7-e432-46aa-b424-c9cf7b1a8b0d.png)
-![app · Streamlit - Google Chrome 28-04-2022 20_31_04](https://user-images.githubusercontent.com/72250606/165783594-e62f6776-b241-4ebd-8a7a-78e3a82f343f.png)
-![app · Streamlit - Google Chrome 28-04-2022 20_31_23](https://user-images.githubusercontent.com/72250606/165783597-6f497c0f-01ef-42a5-be8a-5a67c7c2bc1f.png)
-![app · Streamlit - Google Chrome 28-04-2022 20_31_34](https://user-images.githubusercontent.com/72250606/165783601-b7d553f4-8e7d-4ed0-9a2a-56d58e31cbcf.png)
+![image](https://github.com/vaish06navi/WhatsApp-Chat-Sentiment-Analyzer/assets/132326467/a9ead59d-53fa-4739-b2ff-7ed35b1c2776)
+![Uploading image.png…]()
+
+
 
 
 
