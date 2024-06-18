@@ -1,8 +1,9 @@
 
 # Whatsapp chat sentiment analyzer
 
-After battling numerous errors, finally completed making Whatsapp Chat Sentiment analyzer, my first data analysis project. It is based on SentimentIntensityAnalyzer class from "nltk.sentiment.vader" module. If you ever wonder who is the most positive person in your whatsapp group of let say 200+ or less members then this is what you are looking for.
-Not only posititve user, you can see the following results on overall group & individual as well :
+If you're seeking a tool that goes beyond identifying the most positive user in your then, This WhatsApp Chat Sentiment Analyzer provides insights not only on individual positivity but also on the overall sentiment of the group.
+
+During its development, I conducted extensive experiments on WhatsApp data, exploring a range of Machine Learning Algorithms including Naive Bayes, Random Forest, SVM, and KNN. Additionally, I explored various NLP encoding techniques such as Tokenization, TF-IDF, and Bag of Words. To enhance usability, I visualized communication patterns using Streamlit.
 
 - Monthly Activity map(Positive, Neutral, Negative)
 - Daily Activity map(Positive, Neutral, Negative)
@@ -14,19 +15,8 @@ Not only posititve user, you can see the following results on overall group & in
 - Most Common words(Positive, Neutral, Negative)
 - Most user(Positive, Neutral, Negative)
 
-You just have to perform the following task in order to get analysis.
-- Export whatsapp chat (24 hour format).
-- Browse the file.
-- Click Show Analysis.
-
-## Deployed link
-
-[click here](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa19ucTE0WG9IdmFKNVhMSnlCNzJWVWxGV25NUXxBQ3Jtc0ttREhtME5RTzdNUFRQLXk0cl95SXQzR01wRHRfUHFjVmFoSEtJM21Nb0ZsU3lFdmVMTVV3cFhDSEhldFNSdDctUTl3S01kU3dOS3A0X1BONkhzUW5Pc1ZETi0xaFRQYUg2Y3BzM1poSTliNGE3RU5LMA&q=https%3A%2F%2Fwhatsapp-sentiment-analyzer.herokuapp.com%2F&v=M8AlfcW0M70)
-
 
 ## Run locally
-
-Create new project in pycharm and add above files. After that open terminal and run the following command. This will install all the modules needed to run this app. 
 
 ```bash
 pip install -r requirements.txt
@@ -58,15 +48,5 @@ streamlit run app.py
 ![app · Streamlit - Google Chrome 28-04-2022 20_31_23](https://user-images.githubusercontent.com/72250606/165783597-6f497c0f-01ef-42a5-be8a-5a67c7c2bc1f.png)
 ![app · Streamlit - Google Chrome 28-04-2022 20_31_34](https://user-images.githubusercontent.com/72250606/165783601-b7d553f4-8e7d-4ed0-9a2a-56d58e31cbcf.png)
 
-## Demo video
 
-[Whatsapp chat sentiment analyzer](https://www.youtube.com/watch?v=XCLCOA9BXVA)
- 
-## Author
-
-- [Udhay Brahmi](https://github.com/Udhay-Brahmi)
-
-## Support
-
-For support, email udhaybrahmi786@gmail.com or udhaybrahmi@gmail.com.
 
