@@ -15,6 +15,7 @@ During its development, I conducted extensive experiments on WhatsApp data, expl
 - Most Common words(Positive, Neutral, Negative)
 - Most user(Positive, Neutral, Negative)
 
+![image](https://github.com/user-attachments/assets/1ab2a83e-96e3-4bdc-b7ec-3862f996b158)
 
 ## Run locally
 
